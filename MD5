@@ -1,0 +1,7 @@
+0351e3bd0a8dc42d6210a0d9b60f293d *DESCRIPTION
+31c0d35192cdb2996d2c4fa5aee44060 *NAMESPACE
+37cf3406563d586a65fe3fe490915ea9 *R/charlson-internal.R
+3c1fc761e229b63ce078742c8bdc6fd2 *R/charlson.R
+a85a4bbe40bf4c4a2d8af9785c70a1aa *data/full.data.rda
+a62600894e9d581632eaacdedc31f45b *man/charlson-package.Rd
+d650645458dac94908801361af4851ab *man/full.data.Rd
